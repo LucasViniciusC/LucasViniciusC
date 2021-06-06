@@ -3,7 +3,7 @@
 My name is Lucas Cruz, I'm from Brazil. I am a Front-end programmer and a student of Back-end programming.
 ####
 
- **Never Stop Learning** 👨🏿‍💻
+ ***Never Stop Learning*** 👨🏿‍💻
 
 Things I like to do:
 
