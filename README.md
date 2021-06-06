@@ -15,4 +15,8 @@ Things I like to do:
 
 - 🌱 I’m currently learning JavaScript, Java and UX/UI Design
 
+**Connect with me:**
+
 <a href="https://www.linkedin.com/in/lucas-c-0621811a7/"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></img></a>
+
+
