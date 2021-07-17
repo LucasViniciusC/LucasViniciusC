@@ -1,4 +1,4 @@
-# *Hi there Nice to meet you.* 👋�https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
+# *Hi there Nice to meet you.* 👋
 
 *******My name is Lucas Cruz, I'm from Brazil. I am a Front-end programmer and a student of Back-end programming.*******
 ####
