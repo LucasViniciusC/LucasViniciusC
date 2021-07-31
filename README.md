@@ -1,6 +1,6 @@
 # *Hi there Nice to meet you.* 👋
 
-*******My name is Lucas Cruz, I'm from Brazil. I am a Front-end programmer and a student of Back-end programming.*******
+**My name is Lucas Cruz, I'm from Brazil. I am a Front-end programmer and a student of Back-end programming.**
 ####
 
 Things I like to do:
