@@ -33,4 +33,3 @@ Things I like to do:
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=LucasViniciusC&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusC&layout=compact&langs_count=7&theme=jolly"/>
 </div>
-
