@@ -3,17 +3,20 @@
 *******My name is Lucas Cruz, I'm from Brazil. I am a Front-end programmer and a student of Back-end programming.*******
 ####
 
- ***Never Stop Learning*** 👨🏿‍💻
-
 Things I like to do:
 
 -   🖥  Web Applications
 -   🎨  Interfaces
 -   📱  Applications
 
+- 📚 I’m currently learning JavaScript, Java and UX/UI Design
+
 ###
 
-- 🌱 I’m currently learning JavaScript, Java and UX/UI Design
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasViniciusC&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasViniciusC)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ***Connect with me:***
 
