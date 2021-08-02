@@ -1,7 +1,6 @@
-# *Hi there Nice to meet you.* 👋
-
-### My name is Lucas Cruz, I'm from Brazil. I am a Front-end programmer and a student of Back-end programming.
-####
+<h1 align="center">Hi there Nice to meet you.👋<h1>
+ 
+<h3>My name is Lucas Cruz, I'm from Brazil. I am a Front-end programmer and a student of Back-end programming.</h3>
 
 Things I like to do:
 
@@ -15,9 +14,12 @@ Things I like to do:
 
 
 ###
-***My Skills:***
+<h2 align="center">My Skills:</h2>
 
+<div align="center">
 <img bgcolor="red" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg"></img><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></img>
+</div>
+
 ##
 
 
